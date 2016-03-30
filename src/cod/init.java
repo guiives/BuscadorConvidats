@@ -56,8 +56,8 @@ public class init {
         }
         
         //Creem la finestra
-        ventana finestra = new ventana();
-        finestra.setVisible(true);
+//        ventana finestra = new ventana();
+//        finestra.setVisible(true);
         
     }
 
