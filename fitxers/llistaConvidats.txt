@@ -1,0 +1,13 @@
+1_ELENA_true_GUILLERMO_false_aaaaaaaaa
+1_GUILLERMO_true_ELENA_false
+1_ISABEL_true_VICENT_false
+1_VICENT_true_ISABEL_flase
+1_JULIA_true_PASCUAL_false
+1_PASCUAL_true_JULIA_false
+2_JOSE_true_NOELIA_false
+2_NOELIA_true_JOSE_false
+2_LIDIA_true_IVAN_false
+2_IVAN_true_LIDIA_false
+2_JOAN_false__true
+5_PRUEBA_false__false
+12_CASCA_false__true
